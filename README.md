@@ -14,7 +14,7 @@ Una implementación del clásico juego Tic Tac Toe, donde se practican conceptos
 
 ### 3. Mouse Follower
 
-Un pequeño proyecto donde un elemento en pantalla sigue el movimiento del ratón, utilizando eventos y efectos en React para capturar y responder a la interacción del usuario.
+Un pequeño proyecto donde un elemento en pantalla sigue el movimiento del ratón, utilizando eventos y efectos en React.
 
 ### 4. Prueba Técnica: Fetching de Datos
 
@@ -22,7 +22,7 @@ Un ejercicio técnico para aprender a hacer solicitudes de datos (fetching) en R
 
 ### 5. Prueba Técnica: Buscador de Películas
 
-Un proyecto que implementa un buscador de películas utilizando una API externa. Se enfoca en el manejo de formularios, peticiones HTTP y la renderización dinámica de resultados.
+Un proyecto que implementa un buscador de películas utilizando una API externa. Se enfoca en el manejo de formularios y la renderización dinámica de resultados.
 
 ### 6. Carrito de la Compra
 
@@ -30,7 +30,7 @@ Una aplicación de carrito de compras que permite agregar y eliminar productos, 
 
 ### 7. React Router
 
-Un proyecto que demuestra cómo implementar la navegación entre diferentes páginas utilizando React Router, manejando rutas y subrutas en una aplicación React.
+En este proyecto, he creado una versión personalizada de React Router desde cero para practicar cómo se implementa la navegación en React. Esto me permitió entender mejor el funcionamiento interno de las rutas y la gestión de subrutas, sin utilizar la biblioteca React Router original.
 
 ## Instalación y Uso
 
